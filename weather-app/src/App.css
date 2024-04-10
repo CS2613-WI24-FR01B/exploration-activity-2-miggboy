@@ -1,0 +1,15 @@
+.weather-app {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+
+body {
+  background-color: #8A2BE2;
+}
+
+h1 {
+  font-family: 'Comic Sans MS', cursive;
+  color: white;
+}
+
