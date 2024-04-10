@@ -21,7 +21,7 @@ After downloading program:
 ## Sample Run
 
 - **Input:** Fredericton
-- **Output:**
-  City: Fredericton, New Brunswick
-  Temperature right now: 10 °C
-  Conditions: Sunny
+- **Output:** <br>
+  City: Fredericton, New Brunswick <br>
+  Temperature right now: 10 °C <br>
+  Conditions: Sunny <br>
