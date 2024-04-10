@@ -7,7 +7,7 @@ In my sample weather app, I use a few of React's key features - such as state ma
 ---
 ## History
 
-React is developped and maintained by Meta. It was created in 2010 to solve the issue of updating the FaceBook news feed in realtime without needing to refresh the page.[ref](google.com)
+React is developped and maintained by Meta. It was realeased in 2013 to solve the issue of updating the FaceBook news feed in realtime without needing to refresh the page.[ref](https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/)
 
 ---
 ## Why did I choose React?
